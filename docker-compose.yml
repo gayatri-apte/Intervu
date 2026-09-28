@@ -1,0 +1,10 @@
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: intervu
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+      - ./data:/app/data

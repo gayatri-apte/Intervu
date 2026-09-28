@@ -1,0 +1,161 @@
+[
+  {
+    "id": "behavioral_001",
+    "question": "Tell me about a challenging project you worked on.",
+    "category": "behavioral",
+    "difficulty": 2,
+    "tags": [
+      "project",
+      "challenge",
+      "problem_solving"
+    ]
+  },
+  {
+    "id": "behavioral_002",
+    "question": "Tell me about a time you had to work with a difficult team member.",
+    "category": "behavioral",
+    "difficulty": 2,
+    "tags": [
+      "teamwork",
+      "conflict",
+      "communication"
+    ]
+  },
+  {
+    "id": "behavioral_003",
+    "question": "Tell me about a time you made a mistake and what you learned from it.",
+    "category": "behavioral",
+    "difficulty": 2,
+    "tags": [
+      "failure",
+      "learning",
+      "reflection"
+    ]
+  },
+  {
+    "id": "behavioral_004",
+    "question": "Describe a situation where you had to adapt to a significant change.",
+    "category": "behavioral",
+    "difficulty": 2,
+    "tags": [
+      "adaptability",
+      "change"
+    ]
+  },
+  {
+    "id": "behavioral_005",
+    "question": "Tell me about a time when you demonstrated leadership.",
+    "category": "behavioral",
+    "difficulty": 3,
+    "tags": [
+      "leadership",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "technical_001",
+    "question": "Explain the difference between a process and a thread.",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "operating_systems",
+      "process",
+      "thread"
+    ]
+  },
+  {
+    "id": "technical_002",
+    "question": "What is a deadlock and what are the necessary conditions for it to occur?",
+    "category": "technical",
+    "difficulty": 3,
+    "tags": [
+      "operating_systems",
+      "deadlock"
+    ]
+  },
+  {
+    "id": "technical_003",
+    "question": "Explain the difference between a stack and a queue.",
+    "category": "technical",
+    "difficulty": 1,
+    "tags": [
+      "data_structures",
+      "stack",
+      "queue"
+    ]
+  },
+  {
+    "id": "technical_004",
+    "question": "What is the time complexity of binary search and why?",
+    "category": "technical",
+    "difficulty": 1,
+    "tags": [
+      "algorithms",
+      "binary_search",
+      "complexity"
+    ]
+  },
+  {
+    "id": "technical_005",
+    "question": "Explain how a hash table works.",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "data_structures",
+      "hashing"
+    ]
+  },
+  {
+    "id": "technical_006",
+    "question": "What is normalization in a relational database?",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "database",
+      "normalization"
+    ]
+  },
+  {
+    "id": "technical_007",
+    "question": "What is the difference between an inner join and a left join?",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "database",
+      "sql",
+      "joins"
+    ]
+  },
+  {
+    "id": "technical_008",
+    "question": "Explain the difference between TCP and UDP.",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "computer_networks",
+      "tcp",
+      "udp"
+    ]
+  },
+  {
+    "id": "technical_009",
+    "question": "What is an API and how does a REST API work?",
+    "category": "technical",
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "rest",
+      "web"
+    ]
+  },
+  {
+    "id": "technical_010",
+    "question": "What is object-oriented inheritance?",
+    "category": "technical",
+    "difficulty": 1,
+    "tags": [
+      "oop",
+      "inheritance"
+    ]
+  }
+]

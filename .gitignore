@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated audio
+data/audio/
+data/**/*.wav
+data/**/*.mp3
+data/**/*.m4a
+data/**/*.flac
+
+# Generated transcripts / reports
+data/transcripts/
+data/reports/
+
+# Model/cache files
+.cache/
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+tmp/
+temp/
+
+# Python packaging
+dist/
+build/
+*.egg-info/
